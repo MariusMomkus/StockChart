@@ -1,6 +1,7 @@
 package Marius.Momkus.demo.Controllers;
 
 // StockChartController.java
+import Marius.Momkus.demo.Data.ChartData;
 import Marius.Momkus.demo.Services.StockDataService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
